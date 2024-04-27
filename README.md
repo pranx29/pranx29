@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello World, I'm Pranavan! 👋
 
-<!--
-**pranx29/pranx29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🎓 I’m currently studying Software Engineering.
+- 🌱 I’m learning Python.
+- 📫 How to reach me: pranavans@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I speak fluent code!
 
-Here are some ideas to get you started:
+### 🔧 Technical Skills
+- **Languages**: C, C#, Java, Python
+- **Tools**: Visual Studio Code, Visual Studio, Netbeans
+- **Frameworks**: .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
