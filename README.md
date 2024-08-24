@@ -7,7 +7,7 @@
 - Pronouns: He/Him
 - Fun fact: I speak fluent code!
 
-### 🔧 Technical Skills
+### Technical Skills
 - **Languages**: C, C#, Java, Python 
 - **Frameworks**: .NET, Tailwind
 
