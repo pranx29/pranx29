@@ -1,8 +1,1 @@
-# Hello World, I'm --! 
-
-## About Me
---
-
-### Technical Skills
---
-
+# Hello World, I'm Pranavan!
